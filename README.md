@@ -1,3 +1,5 @@
+<a href="https://consensus.app"><img src="assets/logo.png" alt="Consensus" width="200" /></a>
+
 # Consensus MCP Server
 
 [![Website](https://img.shields.io/badge/website-consensus.app-068EF1)](https://consensus.app)
@@ -24,7 +26,7 @@ https://mcp.consensus.app/mcp
 
 ## Get started
 
-[![Watch: The Consensus MCP & Claude Connector](https://img.youtube.com/vi/gcMel2guYE8/maxresdefault.jpg)](https://www.youtube.com/watch?v=gcMel2guYE8&t=4s)
+[![Watch: The Consensus MCP & Claude Connector](assets/mcp-demo-thumbnail.png)](https://www.youtube.com/watch?v=gcMel2guYE8&t=4s)
 
 ### Claude (web and desktop)
 
