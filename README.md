@@ -152,7 +152,7 @@ Building an application instead of connecting a chat client? The same search is 
 
 ## About this repo
 
-The Consensus MCP server is a hosted remote server; there is nothing to install from source. This repo is its public home: setup guides, announcements, and [issues](../../issues). Full documentation lives at [docs.consensus.app/docs/mcp](https://docs.consensus.app/docs/mcp).
+The Consensus MCP server is a hosted remote server; there is nothing to install from source. This repo is its public home: setup guides, announcements, and [issues](../../issues). Full documentation lives at [docs.consensus.app/docs/mcp](https://docs.consensus.app/docs/mcp). For a worked example of building with the MCP, read [Building a Research Opportunity Engine](https://consensus.app/home/resources/building-a-research-opportunity-engine-copy/).
 
 ---
 
