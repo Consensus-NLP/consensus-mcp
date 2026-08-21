@@ -1,6 +1,6 @@
 <a href="https://consensus.app"><img src="assets/logo.png" alt="Consensus" width="200" /></a>
 
-# Consensus MCP Server
+# Consensus MCP Server | AI Scientific Research
 
 [![Website](https://img.shields.io/badge/website-consensus.app-068EF1)](https://consensus.app)
 [![Docs](https://img.shields.io/badge/docs-MCP%20guide-068EF1)](https://docs.consensus.app/docs/mcp)
