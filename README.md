@@ -144,7 +144,12 @@ Authorization: Bearer YOUR_API_KEY
 
 ## For enterprises
 
-Consensus powers research for organizations ranging from universities and research institutions to biotechs and manufacturers: read how [Owkin uses the Consensus MCP](https://consensus.app/home/community-voices/owkin/). Our team partners with you to bring evidence-grounded search to your users and your internal teams alike: member-facing products, research workflows, internal copilots, custom rate limits, and hands-on integration support. [Talk to us](https://consensus.app/home/api/).
+Consensus powers research for organizations ranging from universities and research institutions to biotechs and manufacturers. Our team partners with you to bring evidence-grounded search to your users and your internal teams alike: member-facing products, research workflows, internal copilots, custom rate limits, and hands-on integration support.
+
+- Read how [Owkin uses the Consensus MCP](https://consensus.app/home/community-voices/owkin/)
+- See a worked example: [Building a Research Opportunity Engine](https://consensus.app/home/resources/building-a-research-opportunity-engine-copy/)
+
+[![Talk to us](https://img.shields.io/badge/Talk%20to%20us-068EF1?style=for-the-badge)](https://consensus.app/home/api/)
 
 ## Consensus API
 
@@ -152,7 +157,7 @@ Building an application instead of connecting a chat client? The same search is 
 
 ## About this repo
 
-The Consensus MCP server is a hosted remote server; there is nothing to install from source. This repo is its public home: setup guides, announcements, and [issues](../../issues). Full documentation lives at [docs.consensus.app/docs/mcp](https://docs.consensus.app/docs/mcp). For a worked example of building with the MCP, read [Building a Research Opportunity Engine](https://consensus.app/home/resources/building-a-research-opportunity-engine-copy/).
+The Consensus MCP server is a hosted remote server; there is nothing to install from source. This repo is its public home: setup guides, announcements, and [issues](../../issues). Full documentation lives at [docs.consensus.app/docs/mcp](https://docs.consensus.app/docs/mcp).
 
 ---
 
