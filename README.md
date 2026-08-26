@@ -159,6 +159,10 @@ Building an application instead of connecting a chat client? The same search is 
 
 The Consensus MCP server is a hosted remote server; there is nothing to install from source. This repo is its public home: setup guides, announcements, and [issues](../../issues). Full documentation lives at [docs.consensus.app/docs/mcp](https://docs.consensus.app/docs/mcp).
 
+## Additional Links
+
+- [https://smithery.ai/servers/consensus-app/mcp](https://smithery.ai/servers/consensus-app/mcp)
+
 ---
 
 Made by [Consensus](https://consensus.app), the AI search engine for research. Follow us on [X](https://x.com/ConsensusNLP) and [LinkedIn](https://www.linkedin.com/company/consensus-nlp).
