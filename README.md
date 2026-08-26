@@ -6,7 +6,6 @@
 [![Docs](https://img.shields.io/badge/docs-MCP%20guide-068EF1)](https://docs.consensus.app/docs/mcp)
 [![Protocol](https://img.shields.io/badge/protocol-MCP-8B5CF6)](https://modelcontextprotocol.io)
 [![Follow on X](https://img.shields.io/badge/follow-%40ConsensusNLP-000000?logo=x&logoColor=white)](https://x.com/ConsensusNLP)
-[![smithery badge](https://smithery.ai/badge/consensus-app/mcp)](https://smithery.ai/servers/consensus-app/mcp)
 
 The Consensus MCP server connects AI assistants to [Consensus](https://consensus.app), the academic search engine. Claude, ChatGPT, Cursor, and any MCP-compatible client can search 220M+ peer-reviewed research papers and ground answers in real, citable studies, directly from the conversation.
 
