@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.Consensus-NLP/consensus-mcp",
+  "title": "Consensus: Academic Research Search",
+  "description": "Academic search over 400M+ papers incl. PubMed, with study filters and cited research threads.",
+  "version": "1.0.0",
+  "websiteUrl": "https://docs.consensus.app/consensus-mcp",
+  "repository": {
+    "url": "https://github.com/Consensus-NLP/consensus-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.consensus.app/mcp"
+    }
+  ]
+}
