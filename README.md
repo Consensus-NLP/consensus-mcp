@@ -232,8 +232,6 @@ Building your own application, RAG pipeline or agent? The same search is availab
 
 The Consensus MCP server is a hosted remote server; there's nothing to install from source. This repo is its public home: setup guides, announcements and [issues](../../issues). Full documentation lives at [docs.consensus.app/consensus-mcp](https://docs.consensus.app/consensus-mcp).
 
-Also listed on [Smithery](https://smithery.ai/servers/consensus-app/mcp).
-
 ---
 
 Made by [Consensus](https://consensus.app), the AI search engine for research. Follow us on [X](https://x.com/ConsensusNLP) and [LinkedIn](https://www.linkedin.com/company/consensus-nlp).
